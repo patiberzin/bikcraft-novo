@@ -22,5 +22,8 @@
 /*Parceiros*/
 @import "./home/parceiros.css";
 
+/*Depoimentos*/
+@import "./home/depoimento.css";
+
 /*Bicicletas*/
 @import "./bicicletas/bicicletas-lista.css";
